@@ -1,4 +1,4 @@
-.gitignore #Ignore it itselft first
+.gitignore
 .idea/
 __pycache__/
 *.pyc
