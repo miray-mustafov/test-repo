@@ -12,7 +12,8 @@ def is_prime(a):
 
 
 print('Hi')
-a = 5
+a = 7
+
 is_a_prime = is_prime(a)
 if is_a_prime:
     print('a is prime yes')
