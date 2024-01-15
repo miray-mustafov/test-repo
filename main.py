@@ -6,7 +6,8 @@ def is_prime(a):
 
 
 print('Hi')
-a = 7
+
+a = 8
 
 is_a_prime = is_prime(a)
 if is_a_prime:
