@@ -13,12 +13,8 @@ def is_prime(a):
 
 print('Hi')
 a = 5
-<<<<<<< HEAD
-b = 6
-=======
 is_a_prime = is_prime(a)
 if is_a_prime:
     print('a is prime yes')
 else:
     print('No')
->>>>>>> 0e915fe (is_prime)
