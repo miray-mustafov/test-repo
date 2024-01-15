@@ -3,7 +3,8 @@ def is_prime(a):
         if a % i == 0:
             return False
     return True
-
+def abc():
+    print()
 
 print('Hi')
 
