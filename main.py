@@ -9,7 +9,8 @@ def is_prime(a):
         if a % i == 0:
             return False
     return True
-
+def abc():
+    print()
 
 a = 21
 is_a_prime = is_prime(a)
