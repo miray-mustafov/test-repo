@@ -11,6 +11,8 @@ def is_prime(a):
     return True
 
 
+a = 5
+
 print('Hi')
 a = 9
 
